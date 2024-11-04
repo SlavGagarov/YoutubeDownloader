@@ -21,6 +21,6 @@ def download_youtube_video_as_mp3(url, output_path):
 
     print(f"MP3 file saved in: {output_path}")
 
-youtube_url = "https://www.youtube.com/watch?v=WPiEbYSF9kE"
+youtube_url = "https://www.youtube.com/watch?v=hpT6_ZgNbQU"
 output_directory = "./songs"
 download_youtube_video_as_mp3(youtube_url, output_directory)

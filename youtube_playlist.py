@@ -31,6 +31,6 @@ def download_youtube_playlist_as_mp3(playlist_url, output_base_path):
 
     print(f"MP3 files saved in: {output_path}")
 
-youtube_playlist_url = "https://www.youtube.com/playlist?list=PLTGr1FN7MjlvaC3MnR_VAU0At12Pmi8J6"
+youtube_playlist_url = "https://www.youtube.com/watch?v=NfaQl1IJoJs&list=PLTGr1FN7Mjlsv7Jj6ITGH5ImPkFCAWNJh"
 output_base_directory = "./songs"
 download_youtube_playlist_as_mp3(youtube_playlist_url, output_base_directory)
